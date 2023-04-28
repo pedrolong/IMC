@@ -1,0 +1,57 @@
+html {
+    background-color: rgb(74, 163, 74); 
+
+}
+body { 
+    margin:300px;
+    justify-content: center ;
+    align-items: center;
+    font-style: italic; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3#descExercicio{
+   
+ text-align: center;
+
+}
+#texto {
+    text-align: center;
+    font-size: 60px ;
+}
+form{
+    text-align: center;
+}
+#peso {
+    height:50px;
+    width:200px;
+    height: 50px;
+    width: 200px;
+    border-style:solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 4%;
+}
+#altura {
+    height:50px;
+    width:200px;
+    height: 50px;
+    width: 200px;
+    border-style:solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 4%;
+}
+.input{
+    font-size:16px;
+    height: 50px;
+    width: 200px;
+    border-style:solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 4%;
+
+}
+.label{
+    font-size:24px; 
+}
